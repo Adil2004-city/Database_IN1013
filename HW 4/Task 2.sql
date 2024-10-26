@@ -1,4 +1,4 @@
-INSERT INTO petPet VALUES
+INSERT INTO petPet VALUE
     ("Fluffy", "Harold", "cat", "F", "1993-02-04", NULL),
     ("Claws", "Gwen", "cat", "M", "1994-03-17", NULL),
     ("Buffy", "Harold", "dog", "F", "1989-05-13", NULL),
